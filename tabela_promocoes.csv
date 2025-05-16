@@ -1,0 +1,6 @@
+ID_Promo,Data_Início,Data_Término,Produto_Promocionado,Desconto_%,Canal,Vendas_Before,Vendas_After,Impacto_%
+001,01/11/2022,30/11/2022,Smartphone,20,Online,50000,70000,40.0
+002,01/12/2022,25/12/2022,"TV 50""",15,Físico,100000,130000,30.0
+003,15/10/2022,31/10/2022,Sofá 3 Lugares,10,Online,20000,25000,25.0
+004,01/09/2022,30/09/2022,Geladeira,5,Físico,40000,45000,12.5
+005,01/06/2023,30/06/2023,Cadeira,10,Físico,30000,50000,66.67

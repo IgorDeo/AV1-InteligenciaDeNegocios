@@ -1,0 +1,9 @@
+ID_Venda,Data,Região,Produto,Categoria_Produto,Canal,Quantidade_Vendida,Valor_Venda,Preço_Unitário,Desconto_%
+001,01/01/2023,Nordeste,Smartphone,Eletrônicos,Físico,100,30000,300,10
+002,02/01/2023,Sudeste,"TV 50""",Eletrônicos,Online,50,12500,250,5
+003,15/01/2023,Nordeste,Sofá 3 Lugares,Móveis,Físico,30,15000,500,0
+004,01/02/2023,Norte,Geladeira,Eletrodomésticos,Físico,20,10000,500,5
+005,01/02/2023,Nordeste,Cadeira,Móveis,Online,25,3500,140,5
+006,01/03/2023,Sudeste,Smartphone,Eletrônicos,Online,120,36000,300,10
+007,15/03/2023,Nordeste,Tablet,Eletrônicos,Físico,40,12000,300,5
+008,20/03/2023,Nordeste,Sofá 2 Lugares,Móveis,Online,35,17500,500,0

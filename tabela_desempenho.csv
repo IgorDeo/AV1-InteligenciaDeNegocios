@@ -1,0 +1,9 @@
+Mês,Canal,Vendas_Total,Vendas_Online,Vendas_Físico,Vendas_Revendedores,Meta_Vendas,Desvio_%
+Janeiro,Físico,500000,0,500000,0,550000,-9.09
+Janeiro,Online,200000,200000,0,0,210000,-4.76
+Fevereiro,Físico,450000,0,450000,0,500000,-10.0
+Fevereiro,Online,250000,250000,0,0,240000,4.17
+Março,Físico,400000,0,400000,0,420000,-4.76
+Março,Online,270000,270000,0,0,260000,3.85
+Abril,Físico,600000,0,600000,0,650000,-7.69
+Abril,Online,300000,300000,0,0,320000,-6.25
