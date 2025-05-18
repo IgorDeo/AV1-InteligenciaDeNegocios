@@ -1,9 +1,45 @@
-ID_Venda,Data,Região,Produto,Categoria_Produto,Canal,Quantidade_Vendida,Valor_Venda,Preço_Unitário,Desconto_%
-001,01/01/2023,Nordeste,Smartphone,Eletrônicos,Físico,100,30000,300,10
-002,02/01/2023,Sudeste,"TV 50""",Eletrônicos,Online,50,12500,250,5
-003,15/01/2023,Nordeste,Sofá 3 Lugares,Móveis,Físico,30,15000,500,0
-004,01/02/2023,Norte,Geladeira,Eletrodomésticos,Físico,20,10000,500,5
-005,01/02/2023,Nordeste,Cadeira,Móveis,Online,25,3500,140,5
-006,01/03/2023,Sudeste,Smartphone,Eletrônicos,Online,120,36000,300,10
-007,15/03/2023,Nordeste,Tablet,Eletrônicos,Físico,40,12000,300,5
-008,20/03/2023,Nordeste,Sofá 2 Lugares,Móveis,Online,35,17500,500,0
+ID_Venda;Data;Região;Produto;Categoria_Produto;Canal;Quantidade_Vendida;Valor_Venda;Preço_Unitário;Desconto_%
+001;01/01/2023;Nordeste;Smartphone;Eletrônicos;Físico;100;30000;300;10
+002;02/01/2023;Sudeste;TV 50";Eletrônicos;Online;50;12500;250;5
+003;15/01/2023;Nordeste;Sofá 3 Lugares;Móveis;Físico;30;15000;500;0
+004;01/02/2023;Norte;Geladeira;Eletrodomésticos;Físico;20;10000;500;5
+005;01/02/2023;Nordeste;Cadeira;Móveis;Online;25;3500;140;5
+006;01/03/2023;Sudeste;Smartphone;Eletrônicos;Online;120;36000;300;10
+007;15/03/2023;Nordeste;Tablet;Eletrônicos;Físico;40;12000;300;5
+008;20/03/2023;Nordeste;Sofá 2 Lugares;Móveis;Online;35;17500;500;0
+009;01/04/2023;Nordeste;Smartphone;Eletrônicos;Físico;90;25200;280;10
+010;01/04/2023;Sudeste;TV 50";Eletrônicos;Online;55;14575;265;5
+011;01/04/2023;Sul;Sofá 3 Lugares;Móveis;Físico;35;17500;500;0
+012;01/05/2023;Nordeste;Sofá 3 Lugares;Móveis;Físico;25;12000;480;0
+013;01/05/2023;Sudeste;Smartphone;Eletrônicos;Online;130;39000;300;10
+014;01/05/2023;Sul;Geladeira;Eletrodomésticos;Físico;25;12500;500;5
+015;01/06/2023;Nordeste;Cadeira;Móveis;Online;20;2600;130;5
+016;01/06/2023;Sudeste;Notebook;Eletrônicos;Online;60;48000;800;8
+017;01/06/2023;Sul;Cadeira;Móveis;Físico;30;4500;150;5
+018;01/07/2023;Nordeste;Tablet;Eletrônicos;Físico;30;8100;270;5
+019;01/07/2023;Sudeste;Tablet;Eletrônicos;Online;50;13750;275;5
+020;01/07/2023;Sul;Sofá 2 Lugares;Móveis;Online;40;20000;500;0
+021;01/08/2023;Nordeste;Sofá 2 Lugares;Móveis;Online;28;13440;480;0
+022;01/08/2023;Sudeste;TV 50";Eletrônicos;Físico;60;15600;260;5
+023;01/08/2023;Sul;Smartphone;Eletrônicos;Online;100;30000;300;10
+024;01/09/2023;Nordeste;Smartphone;Eletrônicos;Físico;70;18900;270;10
+025;01/09/2023;Sudeste;Geladeira;Eletrodomésticos;Físico;30;15000;500;5
+026;01/09/2023;Sul;Notebook;Eletrônicos;Online;40;34000;850;5
+027;01/10/2023;Nordeste;Cadeira;Móveis;Online;18;2340;130;5
+028;01/10/2023;Sudeste;Sofá 2 Lugares;Móveis;Físico;45;22500;500;0
+029;01/10/2023;Sul;TV 50";Eletrônicos;Online;65;17290;266;5
+030;01/11/2023;Nordeste;Tablet;Eletrônicos;Físico;25;6750;270;5
+031;01/11/2023;Sudeste;Smartphone;Eletrônicos;Online;140;42000;300;10
+032;01/11/2023;Sul;Geladeira;Eletrodomésticos;Físico;35;17500;500;5
+033;01/12/2023;Nordeste;Sofá 2 Lugares;Móveis;Online;25;12500;500;0
+034;01/12/2023;Sudeste;Notebook;Eletrônicos;Online;70;63000;900;10
+035;01/12/2023;Sul;Cadeira;Móveis;Online;40;6000;150;5
+036;01/01/2024;Nordeste;Smartphone;Eletrônicos;Físico;60;16200;270;10
+037;01/01/2024;Sudeste;TV 50";Eletrônicos;Online;70;18200;260;5
+038;01/01/2024;Sul;Sofá 3 Lugares;Móveis;Físico;45;22500;500;0
+039;01/02/2024;Nordeste;Tablet;Eletrônicos;Físico;20;5400;270;5
+0040;01/02/2024;Sudeste;Smartphone;Eletrônicos;Online;150;45000;300;10
+041;01/02/2024;Sul;Notebook;Eletrônicos;Online;50;45000;900;10
+042;01/03/2024;Nordeste;Cadeira;Móveis;Online;15;1950;130;5
+043;01/03/2024;Sudeste;Sofá 2 Lugares;Móveis;Físico;50;25000;500;0
+044;01/03/2024;Sul;Smartphone;Eletrônicos;Online;110;33000;300;10
